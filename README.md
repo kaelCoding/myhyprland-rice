@@ -1,1 +1,1 @@
-# My Hyprland Rice
+# My Hyprland Rice test
